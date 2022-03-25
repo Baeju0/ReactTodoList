@@ -21,7 +21,7 @@
     // 체크되었을 때 보여 줄 스타일
     &.checked {
       svg {
-        color: #22b8cf;
+        color: #91e051;
       }
       .text {
         color: #adb5bd;
@@ -33,10 +33,10 @@
     display: flex;
     align-items: center;
     font-size: 1.5rem;
-    color: #ff6b6b;
+    color: #f54444;
     cursor: pointer;
     &:hover {
-      color: #ff8787;
+      color: #fd7171;
     }
   }
 
